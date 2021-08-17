@@ -1,0 +1,29 @@
+git config --global user.name <name>
+
+	git config user.name          For checking name
+
+	git config --global user.email <email>
+
+	git config user.email         For checking email
+	
+	 git init  
+	
+	 touch sample.txt     
+
+	 vim sample.txt
+
+	 git add sample.txt      
+
+	 git status     
+
+	 git commit -m "First commit"    
+	
+	 git log
+
+	 git status
+
+	 git log --oneline 
+
+How to remove the file 
+
+	git rm <file_name>
